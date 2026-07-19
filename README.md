@@ -14,11 +14,6 @@ An Exploratory Data Analysis (EDA) project focusing on investigating the chemica
 ## 📈 Visualizations
 Here are some of the key distributions analyzed during the project:
 
-# Volatile Acidity Distribution
-![Volatile Acidity Histogram](histogram.png)
-
-(Tip: Make sure the file name inside the parentheses exactly matches the name of the image file you uploaded to your repository!)
-
 ## 🚀 How to Run the Project
 1. Clone this repository:
    bash
